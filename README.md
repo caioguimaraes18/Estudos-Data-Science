@@ -19,11 +19,15 @@ Neste repositório, você encontrará pastas organizadas por áreas de estudo, l
 
 Aqui está uma visão geral da estrutura do repositório:
 
-Data Science e Análise de Dados: Projetos de análise e visualização de dados, estudos de ciência de dados.
-Python: Scripts e notebooks com foco em automação, análise de dados e algoritmos de Machine Learning.
-SQL: Consultas, manipulação de banco de dados e práticas de otimização.
-Machine Learning: Modelos preditivos, classificadores e projetos de aprendizado supervisionado e não supervisionado.
-Power BI e Visualização: Dashboards interativos e estudos de visualização de dados.
+ - Data Science e Análise de Dados: Projetos de análise e visualização de dados, estudos de ciência de dados.
+
+- Python: Scripts e notebooks com foco em automação, análise de dados e algoritmos de Machine Learning.
+
+- SQL: Consultas, manipulação de banco de dados e práticas de otimização.
+
+- Machine Learning: Modelos preditivos, classificadores e projetos de aprendizado supervisionado e não supervisionado.
+
+- Power BI e Visualização: Dashboards interativos e estudos de visualização de dados.
 
 ## Canais do YouTube Focados em Data Science
 - https://www.youtube.com/@teomewhy
