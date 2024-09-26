@@ -27,4 +27,4 @@ Power BI e Visualização: Dashboards interativos e estudos de visualização de
 
 ## Canais do YouTube Focados em Data Science
 - https://www.youtube.com/@teomewhy
-- https://www.youtube.com/@Xperiun_
+- https://www.youtube.com/@Xperiun
