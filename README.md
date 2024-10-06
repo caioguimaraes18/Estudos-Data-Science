@@ -32,3 +32,11 @@ Aqui está uma visão geral da estrutura do repositório:
 ## Canais do YouTube Focados em Data Science
 - https://www.youtube.com/@teomewhy
 - https://www.youtube.com/@Xperiun
+
+
+</div><br>
+<br>
+<div  align="center"> 
+  <a href = "mailto:contatocaioguimaraess@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/caio-guimar%C3%A3ess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div><br>
