@@ -1,0 +1,10 @@
+{
+    "Tênis": [
+        {
+            "descricao": "Nike Dunk Low",
+            "valor": 1200.0,
+            "embalagem": "Papelão e salão",
+            "icms": 216.0
+        }
+    ]
+}
