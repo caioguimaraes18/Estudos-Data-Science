@@ -11,6 +11,8 @@ order by 2 desc
 ;
 
 
+SELECT * FROM tb_products limit 10;
+
 
 
 
